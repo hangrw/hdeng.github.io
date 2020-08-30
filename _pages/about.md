@@ -8,9 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am Ph.D. candidate in [Department of Statistics, at Rutgers University](https://statistics.rutgers.edu). I am very fortunate to be advised by Professor [Cun-Hui Zhang](https://stat.rutgers.edu/home/cunhui/). Before that, I received my bachelor degree in Mathematics from Fudan University.
+I am Ph.D. candidate in [Department of Statistics](https://statistics.rutgers.edu), at [Rutgers University](https://rutgers.edu). I am very fortunate to be advised by Professor [Cun-Hui Zhang](https://stat.rutgers.edu/home/cunhui/). Before that, I received my bachelor degree in Mathematics from [Fudan University](https:fudan.edu.cn).
 
-# Research Interests
+# Education
+
+- Expect to graduate in May, 2021, Ph.D. in Statistics, Rutgers University
+- 2017, M.sc. in Statistics, Rutgers University
+- 2015, B.sc. in Mathematics and Applied Mathematics, Fudan University
+
+# Research
+
+My research interests include
+High-dimensional Statistics, Central Limit Theorem, Shape Constrained Regression, Nonparametrics, Large Scale Inference, Bootstrap methods, Statistical Machine Learning, Neural Network Overparameterization
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
