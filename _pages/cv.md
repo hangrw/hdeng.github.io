@@ -7,22 +7,23 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-Available in pdf [here](http://hang-deng.github.io/files/cv.pdf)
+## Full CV available in pdf [here](http://hang-deng.github.io/files/cv.pdf)  
+  
 
-# Contact
+## Contact
 
 Hill Center, 110 Frelinghuysen Road, Piscataway, NJ 08854 \\
 Email: hdeng at stat dot rutgers dot edu
 
-# Education
+## Education
 
 - Ph.D. candidate, Statistics, Rutgers University, _Expected to graduate early 2021_
 - M.Sc. in Statistics, Rutgers University, _Jan. 2017_
 - B.Sc. in Mathematics and Applied Mathematics, Fudan University, _Jul. 2015_
 
-# Work experience
+## Work experience
 
 Summer 2017: NSF Graduate Intern
 
@@ -31,7 +32,7 @@ Summer 2017: NSF Graduate Intern
 - Collaborated with the Cancer Registry of Norway to construct a personalized cervical cancer screening policy for women in Norway.
 - See my story on [SIAM News](https://sinews.siam.org/Details-Page/interns-use-math-to-understand-health-well-being-and-life-threatening-ailments) or the [National Science Foundation-Mathematical Sciences Graduate Internship Program](https://orise.orau.gov/nsf-msgi/profiles/deng.html) website.
 
-# Honors and Awards
+## Honors and Awards
 
 - **Oberwolfach Leibniz Graduate Student**, Mathematical Research Institute of Oberwolfach, Germany, 2018
 - **Best Ph.D Qualifying Exam Performance**, Department of Statistics, Rutgers University, 2016. _Awarded for the highest score in qualifying exam_
@@ -40,6 +41,6 @@ Summer 2017: NSF Graduate Intern
 - **Outstanding Graduate of Fudan Unversity**, Fudan University, 2015
 - **Scholarship for Outstanding Students at Fudan University**, Fudan University, 2012-2014
 
-# Academic Services
+## Academic Services
 
 Reviewer for _Annals of Statistics_, _Probability Theory and its Related Fields_, and _Statistical Sciences_.

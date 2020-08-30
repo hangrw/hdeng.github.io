@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Instructor
+### Instructor
 
-- Linear Algebra and Multivariable Calculus Review for FSRM and MSDS _(Fall 2020)_
+- Linear Algebra and Multivariable Calculus for FSRM and MSDS _(Fall 2020)_
 
-# Teaching Assistant
+### Teaching Assistant
 
 - Computing and Graphics in Applied Statistics _(Spring 2020)_
 - Introductory Statistics for Business _(Fall 2019)_

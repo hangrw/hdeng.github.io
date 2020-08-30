@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+## About me
 
 I am Ph.D. candidate in [Department of Statistics](https://statistics.rutgers.edu), at [Rutgers University](https://rutgers.edu). I am very fortunate to be advised by Professor [Cun-Hui Zhang](https://stat.rutgers.edu/home/cunhui/). Before that, I received my bachelor degree in Mathematics from [Fudan University](https://www.fudan.edu.cn).
 
-# Education
+## Education
 
 - Expect to graduate in May, 2021, Ph.D. in Statistics, Rutgers University
 - 2017, M.sc. in Statistics, Rutgers University
 - 2015, B.sc. in Mathematics and Applied Mathematics, Fudan University
 
-# Research
+## Research
 
 My research interests include
 High-dimensional Statistics, Central Limit Theorem, Shape Constrained Regression, Nonparametrics, Large Scale Inference, Bootstrap methods, Statistical Machine Learning, Neural Network Overparameterization
