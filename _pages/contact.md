@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Contact"
+title: "Contact"
 permalink: /contact
 author_profile: true
 # redirect_from:
@@ -11,7 +11,7 @@ author_profile: true
 
 <!-- ## Full CV available in pdf [here](http://hang-deng.github.io/files/cv.pdf) -->
 
-# Contact
+<!-- # Contact -->
 
 Hill Center, 110 Frelinghuysen Road, Piscataway, NJ 08854 \
 Email: hdeng at stat dot rutgers dot edu
