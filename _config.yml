@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Hang Deng""
+title: "Hang Deng"
 title_separator: "-"
 name: &name "Hang Deng"
 description: &description "PhD candidate"
