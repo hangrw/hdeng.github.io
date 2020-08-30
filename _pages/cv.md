@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Available in pdf [here](http://hang-deng.github.io/files/cv.pdf)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Contact
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Hill Center, 110 Frelinghuysen Road, Piscataway, NJ 08854 \\
+Email: hdeng at stat dot rutgers dot edu
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Education
+
+- Ph.D. candidate, Statistics, Rutgers University, _Expected to graduate early 2021_
+- M.Sc. in Statistics, Rutgers University, _Jan. 2017_
+- B.Sc. in Mathematics and Applied Mathematics, Fudan University, _Jul. 2015_
+
+# Work experience
+
+Summer 2017: NSF Graduate Intern
+
+- Institute for Scientific Computing Research, Lawrence Livermore National Laboratory, CA
+- Supported by **NSF-Mathematical Sciences Graduate Internship Program**.
+- Collaborated with the Cancer Registry of Norway to construct a personalized cervical cancer screening policy for women in Norway.
+- See my story on [SIAM News](https://sinews.siam.org/Details-Page/interns-use-math-to-understand-health-well-being-and-life-threatening-ailments) or the [National Science Foundation-Mathematical Sciences Graduate Internship Program](https://orise.orau.gov/nsf-msgi/profiles/deng.html) website.
+
+# Honors and Awards
+
+- **Oberwolfach Leibniz Graduate Student**, Mathematical Research Institute of Oberwolfach, Germany, 2018
+- **Best Ph.D Qualifying Exam Performance**, Department of Statistics, Rutgers University, 2016. _Awarded for the highest score in qualifying exam_
+- **Conference Travel Award**, Rutgers University, 2018
+- **TA/GA Professional Development Fund Award**, Rutgers University, 2017-2018
+- **Outstanding Graduate of Fudan Unversity**, Fudan University, 2015
+- **Scholarship for Outstanding Students at Fudan University**, Fudan University, 2012-2014
+
+# Academic Services
+
+Reviewer for _Annals of Statistics_, _Probability Theory and its Related Fields_, and _Statistical Sciences_.

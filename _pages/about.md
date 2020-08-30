@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+# title: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am Ph.D. candidate in [Department of Statistics](https://statistics.rutgers.edu), at [Rutgers University](https://rutgers.edu). I am very fortunate to be advised by Professor [Cun-Hui Zhang](https://stat.rutgers.edu/home/cunhui/). Before that, I received my bachelor degree in Mathematics from [Fudan University](https:fudan.edu.cn).
+# About me
+
+I am Ph.D. candidate in [Department of Statistics](https://statistics.rutgers.edu), at [Rutgers University](https://rutgers.edu). I am very fortunate to be advised by Professor [Cun-Hui Zhang](https://stat.rutgers.edu/home/cunhui/). Before that, I received my bachelor degree in Mathematics from [Fudan University](https://fudan.edu.cn).
 
 # Education
 
