@@ -1,23 +1,22 @@
 ---
 layout: archive
-# title: "CV"
-permalink: /cv/
+# title: "Contact"
+permalink: /contact
 author_profile: true
 redirect_from:
-  - /resume
+  - /contact
 ---
 
 <!-- {% include base_path %} -->
 
-## Full CV available in pdf [here](http://hang-deng.github.io/files/cv.pdf)  
-  
+<!-- ## Full CV available in pdf [here](http://hang-deng.github.io/files/cv.pdf) -->
 
 ## Contact
 
-Hill Center, 110 Frelinghuysen Road, Piscataway, NJ 08854 \\
+Hill Center, 110 Frelinghuysen Road, Piscataway, NJ 08854 \
 Email: hdeng at stat dot rutgers dot edu
 
-## Education
+<!-- ## Education
 
 - Ph.D. candidate, Statistics, Rutgers University, _Expected to graduate early 2021_
 - M.Sc. in Statistics, Rutgers University, _Jan. 2017_
@@ -43,4 +42,4 @@ Summer 2017: NSF Graduate Intern
 
 ## Academic Services
 
-Reviewer for _Annals of Statistics_, _Probability Theory and its Related Fields_, and _Statistical Sciences_.
+Reviewer for _Annals of Statistics_, _Probability Theory and its Related Fields_, and _Statistical Sciences_. -->
