@@ -14,7 +14,7 @@ A list of all pages found on the site. For you robots out there is an [XML versi
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- <h2>Posts</h2>
+<h2>Posts</h2>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
@@ -23,8 +23,9 @@ A list of all pages found on the site. For you robots out there is an [XML versi
 
 {% for collection in site.collections %}
 {% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
+{% capture label %}{{ collection.label }}{% endcapture %}
+{% if label != written_label %}
+
   <h2>{{ label }}</h2>
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
@@ -34,4 +35,4 @@ A list of all pages found on the site. For you robots out there is an [XML versi
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %} -->
+{% endfor %}
