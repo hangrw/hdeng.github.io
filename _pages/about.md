@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. candidate in [Department of Statistics](https://statistics.rutgers.edu), at [Rutgers University](https://rutgers.edu). I am very fortunate to be advised by Professor [Cun-Hui Zhang](https://stat.rutgers.edu/home/cunhui/). Before that, I received my bachelor degree in Mathematics from [Fudan University](https://www.fudan.edu.cn).
+Hi! I am a Ph.D. candidate in [Department of Statistics](https://statistics.rutgers.edu), at [Rutgers University](https://rutgers.edu). I am very fortunate to be advised by Professor [Cun-Hui Zhang](https://stat.rutgers.edu/home/cunhui/). Before this, I received my bachelor degree in Mathematics from [Fudan University](https://www.fudan.edu.cn).
 
 ## Research
 
