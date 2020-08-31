@@ -17,7 +17,7 @@ author_profile: true
 
 5.  **Deng, Hang**, and Cun-Hui Zhang. "Beyond Gaussian approximation: Bootstrap for maxima of sums of independent random vectors". Accepted by **Annals of Statistics**, to appear. Available at [arXiv:1705.09528](https://arxiv.org/abs/1705.09528) (2017).
 
-6.  Abdulla, G. M., **H. Deng**, B. Soper, J. Nagrad, and M. Nygard. "Filling the gaps: using a static data source to create a rich temporal dataset". No. LLNL-CONF-752118. Lawrence Livermore National Lab.(LLNL), Livermore, CA, (2018).
+6.  Abdulla, G. M., **H. Deng**, B. Soper, J. Nagrad, and M. Nygard. "Filling the gaps: using a static data source to create a rich temporal dataset". [No. LLNL-CONF-752118](https://www.osti.gov/servlets/purl/1465308). Lawrence Livermore National Lab.(LLNL), Livermore, CA, (2018).
 
 ## Selected Talks
 
