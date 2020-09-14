@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 # excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,8 +12,7 @@ Hi! I am a Ph.D. candidate in [Department of Statistics](https://statistics.rutg
 
 ## Research
 
-My research interests include
-high-dimensional statistics, central limit theorem, shape constrained regression, nonparametrics, bootstrap methods and statistical machine learning. Recently, I'm also getting interested in neural network overparameterization.
+My research interests include high-dimensional statistics, central limit theorem, shape constrained regression, nonparametrics, bootstrap methods and statistical machine learning. Recently, I'm also getting interested in neural network overparameterization.
 
 ## Education
 
