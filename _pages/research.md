@@ -11,7 +11,7 @@ author_profile: true
 
 2.  **Deng, Hang**, Qiyang Han, and Bodhisattva Sen. "Inference for local parameters in convexity constrained models". Submitted. Available at [arXiv:2006.10264](https://arxiv.org/abs/2006.10264) (2020).
 
-3.  **Deng, Hang**, Qiyang Han, and Cun-Hui Zhang. "Confidence intervals for multiple isotonic regression and other monotone models". Submitted to **Annals of Statistics**, revision invited and submitted. Available at [arXiv:2001.07064](https://arxiv.org/abs/2001.07064) (2020).
+3.  **Deng, Hang**, Qiyang Han, and Cun-Hui Zhang. "Confidence intervals for multiple isotonic regression and other monotone models". Accepted by **Annals of Statistics**, to appear. Available at [arXiv:2001.07064](https://arxiv.org/abs/2001.07064) (2020).
 
 4.  **Deng, Hang**, and Cun-Hui Zhang. "Isotonic regression in multi-dimensional spaces and graphs". Accepted by **Annals of Statistics**, to appear. Available at [arXiv:1812.08944](https://arxiv.org/abs/1812.08944) (2018).
 
@@ -20,6 +20,8 @@ author_profile: true
 6.  Abdulla, G. M., **H. Deng**, B. Soper, J. Nagrad, and M. Nygard. "Filling the gaps: using a static data source to create a rich temporal dataset". [No. LLNL-CONF-752118](https://www.osti.gov/servlets/purl/1465308). Lawrence Livermore National Lab.(LLNL), Livermore, CA, (2018).
 
 ## Selected Talks
+
+- Contributed Talk. JSM, online, "Confidence Intervals for Multiple Isotonic Regression and Other Monotone Models", _August 2020_
 
 - Invited Talk. JSM, Denver, CO, “Isotonic Regression in Multi-Dimensional Spaces and Graphs”, _July 2019_
 
